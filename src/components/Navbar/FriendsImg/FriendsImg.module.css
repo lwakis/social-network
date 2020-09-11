@@ -1,0 +1,11 @@
+.containerImg img{
+    width: 50px;
+    height: 50px;
+    flex-direction: row;
+}
+
+.containerImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
